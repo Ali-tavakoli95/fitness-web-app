@@ -1,0 +1,12 @@
+.example-spacer {
+    flex: 1 1 auto;
+}
+
+.button{
+    display: flex;
+    gap: 1rem;
+
+    button{
+        font-weight: 500;
+    }
+  }
